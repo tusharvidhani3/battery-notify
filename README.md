@@ -28,3 +28,5 @@ A simple script to display notification when your battery charging reaches 80% o
 (Open settings then search startup then add new program and select the script)
 
 ### 4. Logout and relogin your current session and enjoy elongated battery lifespan by turning of charging at 80% 
+
+(Don't delete the cloned repo or any files inside it after installation)
