@@ -9,7 +9,7 @@ This program will continue to notify you every 2 minutes after your battery reac
 
 ## Installation :
 
-### 1. Install dependencies: `acpi`, `libnotify-bin`, `mpg123`, `git`
+### 1. Install dependencies: `acpi`, `libnotify`, `mpg123`, `git`
 
 #### Debian, Ubuntu, Mint (APT)
 `sudo apt install acpi libnotify-bin mpg123 git`
