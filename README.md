@@ -1,7 +1,9 @@
 
 
 # battery-notify
-A simple script to display notification when your battery charging reaches 80% or above and discharging reaches 20% or below in Linux to elongate battery lifespan.
+A simple script to notify you when your battery charging reaches 80% or above and discharging reaches 20% or below in Linux to elongate battery lifespan.
+
+This program will continue to notify you every 2 minutes after your battery reaches 80% or above until you disconect the charger or it reaches 20% or below until you connect the charger.
 
 ![preview](https://imgur.com/eISIRBB.png)
 
