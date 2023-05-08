@@ -3,7 +3,7 @@
 # battery-notify
 A simple script to display notification when your battery charging reaches 80% or above and discharging reaches 20% or below in Linux to elongate battery lifespan.
 
-![preview](https://imgur.com/a/dZ6RY9W)
+![preview](https://imgur.com/eISIRBB.png)
 
 ## Installation :
 
